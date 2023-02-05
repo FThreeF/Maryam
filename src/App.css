@@ -40,8 +40,10 @@ body {
 .app {
     width: 100%;
     background-color: white;
-    overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
+
+

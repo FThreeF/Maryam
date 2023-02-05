@@ -5,7 +5,7 @@ import background from './mainBlockBackground.png';
 
 const MainBlock = () => {
     return (
-        <div className={styleNames.block}>
+        <div className={`${styleNames.block} mainBlock`}>
             <img className={styleNames.background} src={background} alt="" />
             <div className={`${styleNames.container} container`}>
                 <h1 className={styleNames.title}>

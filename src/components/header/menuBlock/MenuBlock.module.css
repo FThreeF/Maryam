@@ -3,12 +3,14 @@
     gap: 50px;
 }
 
-.link {
+.button {
     color: white;
     transition: ease-in 150ms;
+    border: none;
+    background-color: transparent;
 }
 
-.link:hover {
+.button:hover {
     color: #2F6FCF;
     transition: ease-in 150ms;
 }

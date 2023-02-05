@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import './App.css';
 import Header from './components/header/Header.jsx';
 import HelpInformation from './components/helpInformation/HelpInformation';
@@ -12,46 +12,58 @@ import Footer from './components/footer/Footer';
 import Explanations from './components/explanations/Explanations';
 import Statistics from './components/statistics/Statistics';
 import Quote from './components/quote/Quote';
+import BeautifulTitle from './components/UI/beautifulTitle/BeautifulTitle';
+import Fund from './components/fund/Fund';
+import Programs from './components/programs/Programs';
+import Team from './components/team/Team';
+import Documents from './components/documents/Documents';
+import News from './components/news/News';
 
 
 const App = () => {
+
+
+
+
   return (
     <div className="app">
+
       <Header />
       <MainBlock />
 
       <InformationPanel>
         <HelpInformation />
       </InformationPanel>
-      
-      О Фонде
+
+      <Fund />
+
 
       <InformationPanel>
         <Explanations />
       </InformationPanel>
-      
-      Программы
 
-      <InformationPanel>
+      <Programs />
+
+      < InformationPanel >
         <Statistics />
-      </InformationPanel>
+      </InformationPanel >
 
-      Командафыв
+      <Team />
 
-      <BeautifulInformationPanel background={yourHelpBackground}>
+      < BeautifulInformationPanel background={yourHelpBackground} >
         <YourHelp />
-      </BeautifulInformationPanel>
+      </BeautifulInformationPanel >
 
-      Документывы
+      <Documents />
 
-      <BeautifulInformationPanel background={quoteBackground}>
+      < BeautifulInformationPanel background={quoteBackground} >
         <Quote />
-      </BeautifulInformationPanel>
+      </BeautifulInformationPanel >
 
-      новости
+      <News />
 
-      <Footer/>
-    </div>
+      < Footer />
+    </div >
   )
 }
 
