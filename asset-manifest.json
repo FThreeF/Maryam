@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MaryamServer/static/css/main.2e79e4fa.css",
+    "main.js": "/MaryamServer/static/js/main.100c9c96.js",
+    "static/media/quoteBackground.png": "/MaryamServer/static/media/quoteBackground.66f2095b219f2a46bb43.png",
+    "static/media/yourHelpBackground.png": "/MaryamServer/static/media/yourHelpBackground.d7b0eb7c2f34dc23f1e1.png",
+    "static/media/mainBlockBackground.png": "/MaryamServer/static/media/mainBlockBackground.b6c8984b2d08dff7f6a9.png",
+    "static/media/programsImage1.png": "/MaryamServer/static/media/programsImage1.ff41de48acda026bcfb5.png",
+    "static/media/programsImage2.png": "/MaryamServer/static/media/programsImage2.d7f526cca3c5500a85fe.png",
+    "static/media/LeonidTitov.png": "/MaryamServer/static/media/LeonidTitov.344a87a712cb62e1faa3.png",
+    "static/media/ElenaSimonova.png": "/MaryamServer/static/media/ElenaSimonova.ff68da1a9c1acdce5543.png",
+    "static/media/YaroslavFokin.png": "/MaryamServer/static/media/YaroslavFokin.116b1bd2e9fcd13c74a6.png",
+    "static/media/AliceTikhomirova.png": "/MaryamServer/static/media/AliceTikhomirova.490d9e359abb6f9f46f2.png",
+    "static/media/headerLogo.svg": "/MaryamServer/static/media/headerLogo.3ffd4279ec4b96c5de7f6f2743069423.svg",
+    "static/media/statisticsImage.png": "/MaryamServer/static/media/statisticsImage.b210f9a85c9694c34b0e.png",
+    "static/media/explanationsIcon1.svg": "/MaryamServer/static/media/explanationsIcon1.b2b39a6f8cfa5528b219ccc996192916.svg",
+    "static/media/explanationsIcon3.svg": "/MaryamServer/static/media/explanationsIcon3.7ff42fc7488c973f6ece3fb6fc34ea41.svg",
+    "static/media/explanationsIcon2.svg": "/MaryamServer/static/media/explanationsIcon2.00938ba60f5ab03219ae3549eafc9dc9.svg",
+    "static/media/documentIcon.svg": "/MaryamServer/static/media/documentIcon.fb08f20285f4598e191842e1580e7b95.svg",
+    "index.html": "/MaryamServer/index.html",
+    "main.2e79e4fa.css.map": "/MaryamServer/static/css/main.2e79e4fa.css.map",
+    "main.100c9c96.js.map": "/MaryamServer/static/js/main.100c9c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e79e4fa.css",
+    "static/js/main.100c9c96.js"
+  ]
+}
